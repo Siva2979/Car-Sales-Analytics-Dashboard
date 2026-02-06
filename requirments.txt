@@ -1,0 +1,7 @@
+Display the units sold for each car brand.
+How much revenue was generated for each car model?
+Can you display the number of variants available for each car model?
+What is the market value for each car brand? Show with the help of a BAR chart.
+Display top 5 model(s)/variants for each brand based on revenue generated.
+Show the market share percentage of brands.
+7.Show the trend of sales over time for each car model.
